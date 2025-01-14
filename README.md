@@ -22,15 +22,20 @@ Inspired by the traditional physical small notes, which discreetly hide informat
 
 ## Feature
 
+Resizable small bar as the top/front window.
 
 Use screenshot to mark the useful expression.
 
 
 
 ## How to install and use
+I only plan to develop for **MacOS**.
+
 I am working on improve and release it as dmg. 
 
 ## Recommended Tools for Use:
 
 Global speed extension for popular browsers to adjust video playback speed.
 SongLingo, a tool designed for language learners who want to use songs as a resource for language practice.
+
+
